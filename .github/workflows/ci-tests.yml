@@ -1,4 +1,4 @@
-name: CI tests workflow
+name: PR Frontend
 on: pull_request
 jobs:
   tests-run:
